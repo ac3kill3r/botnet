@@ -1,2 +1,2 @@
 # About
-Learning pentesting and IT security.
+Learning Python and Django.
